@@ -1,7 +1,7 @@
 # PortSniffer_in_Rust
 
 
-#### Rust lerning Project
+#### Rust learning Project
 
 snofs on a specifif ip address
 
